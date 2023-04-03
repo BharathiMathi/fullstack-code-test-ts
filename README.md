@@ -28,3 +28,16 @@ Before submitting your result please make sure that:
 * The code is formatted (including your favorite linter is a good idea); code that does not meet basic readability criteria will be rejected
 * The application resembles what is visible on screenshots in the design folder
 * The application meets criteria listed above in common desktop and mobile browsers
+
+-----------------------------------------------------------------------------------------------------
+### Users List Application ###
+----------------------------
+* This Application shows the list of users from the backend API.
+
+* Each API call we will get 6 records from the API.
+
+* When we scroll down the API call happen again and retrive another set of records from second page.
+
+* Each API call we will show Ripple loader for 3 seconds.
+
+* This application will work fro all the screen sizes.

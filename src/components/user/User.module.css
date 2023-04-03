@@ -1,0 +1,20 @@
+.image_container {
+    display: inline-block;
+    position: relative;
+    width: 125px;
+    height: 125px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  .image_container img {
+    width: auto;
+    height: 100%;
+  }
+
+  @media screen and (max-width:415px){
+    .image_container{
+      width: 75px;
+      height: 75px;
+    }
+  }
